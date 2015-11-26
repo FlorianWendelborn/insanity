@@ -1,0 +1,22 @@
+{
+  "name": "insanity",
+  "version": "0.0.1",
+  "description": "General purpose autoexec compiler.",
+  "main": "program.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodekeract/insanity.git"
+  },
+  "keywords": [
+    "dota 2",
+    "dota-2",
+    "autoexec",
+    "compiler"
+  ],
+  "author": "Florian Wendelborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodekeract/insanity/issues"
+  },
+  "homepage": "https://github.com/dodekeract/insanity#readme"
+}

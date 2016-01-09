@@ -15,7 +15,7 @@ function append (s) {
 
 // assemble
 append(memory.generate({
-	size: 4,
+	size: 1,
 	compact: true
 }));
 
@@ -27,5 +27,4 @@ append(instructions.parse([
 
 append(utils.run);
 
-// write
-fs.writeFileSync('program.cfg', program);
+console.log(program);

@@ -1,0 +1,17 @@
+{
+	"memory": 6,
+	"data": "101010",
+	"alphabet": [0, 1],
+	"states": {
+		"init": [{
+				"write": 0,
+				"move": -1,
+				"next": "halt"
+			}, {
+				"write": 0,
+				"move": -1,
+				"next": "halt"
+			}
+		]
+	}
+}
